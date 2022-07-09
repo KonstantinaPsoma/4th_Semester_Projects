@@ -1,0 +1,44 @@
+p { color: rgb(12, 12, 11) }
+
+p[title] {
+    font-style: normal;
+    
+}
+
+.p {
+    background-color: rgb(247, 139, 76);
+    margin-left: calc(50% - 50vw);
+	margin-right: calc(50% - 50vw);
+	max-width: 1000%;
+	width: auto;
+}
+
+.a {
+    color: rgb(255, 154, 72); 
+    background-color: rgb(11, 40, 202);
+    text-align: center;
+}
+
+li:hover {
+    background-color: rgb(20, 2, 87);
+  }
+
+.myColor {
+    color: rgb(114, 114, 197);
+}
+
+.myColor2 {
+    color: rgb(255, 255, 40);
+}
+
+body {
+    color: rgb(221, 166, 46);
+    background-color: rgb(185, 251, 253);
+    font-style: normal;
+    font-size: 25px;
+
+    text-align: justify;
+
+    font-family: 'Noto Serif', Open Sans, serif;
+    
+}
